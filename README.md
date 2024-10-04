@@ -28,6 +28,6 @@ The Hurricane Analysis project is designed to organize and manipulate data about
 ## Setup Instructions
 
 1. Clone the repository.
-2. Open the `Hurricane Analysis.ipynb` file in Jupyter Notebook or run the `script.py` file in a Python environment.
+2. Open the `Hurricane Analysis.ipynb` file in Jupyter Notebook.
 3. Follow the instructions in the notebook or script to execute the analysis.
 
